@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Yury 👋
 
-<!--
-**YuryTuratti/YuryTuratti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologias
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,linux" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Conhecimentos
+- Estruturas de dados
+- Algoritmos
+- Programação competitiva
+- Grafos
+- Dijkstra
+- Prefix Sum
+- Bitmask
